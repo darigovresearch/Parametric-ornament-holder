@@ -17,6 +17,11 @@ Best is to print with recycled materials to reduce the impact of plastic in the 
 
 You can also use a piece of string if your ornament has a hook, ideally cotton or a non-synthetic material.
 
+## Contributing
+Pull requests, corrections, translations & fixes are welcome. Any contributions must be submitted under the same license as the original piece of work (see below). Take a look at any open issues or submit new ones if there is something that needs to be fixed or added.
+
+Watch our video on how to contribute to open source for a complete overview -> [https://www.youtube.com/watch?v=UWA4wyacY2A](https://www.youtube.com/watch?v=UWA4wyacY2A)
+
 ## License
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
